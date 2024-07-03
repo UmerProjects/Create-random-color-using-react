@@ -10,6 +10,7 @@ function App() {
       {/* <Accordian /> */}
 
       {/* Random color component */}
+
       <RandomColor />
 
     </div>
